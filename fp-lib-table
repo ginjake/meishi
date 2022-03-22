@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name image)(type KiCad)(uri E:/pcb/infinity_plus3/kicad/lib)(options "")(descr ""))
+  (lib (name foostan)(type KiCad)(uri E:/pcb/lib/kbd-master/kbd.pretty)(options "")(descr ""))
+)

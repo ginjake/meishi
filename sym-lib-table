@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name microchip_pic12mcu)(type Legacy)(uri "C:/Program Files/KiCad/share/kicad/library/MCU_Microchip_PIC12.lib")(options "")(descr ""))
+  (lib (name pcb-rescue)(type Legacy)(uri ${KIPRJMOD}/pcb-rescue.lib)(options "")(descr ""))
+  (lib (name foostan)(type Legacy)(uri E:/pcb/lib/kbd-master/library/kbd.lib)(options "")(descr ""))
+)
